@@ -60,7 +60,7 @@ Follow these steps to execute the audit scripts on your Linux/Ubuntu system:
 
 1. Clone the Repository
 
-git clone [https://github.com/YOUR_USERNAME/oss-audit-24BSA10254.git](https://github.com/YOUR_USERNAME/oss-audit-24BSA10254.git)
+git clone
 cd oss-audit-24BSA10254
 
 
